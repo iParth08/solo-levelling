@@ -7,4 +7,4 @@ Master your Inner Potential
 ## Progress
 
 1. Profile Branch created.
-2.
+2. Events Branch Created
