@@ -31,3 +31,10 @@ git log --oneline
 ## Merge Branch
 
 1. fast forward : One is static, another is dynamic
+2. not fast forward : all dynamic, conflict possible
+
+```bash
+
+git checkout master
+git merge new-branch
+```
